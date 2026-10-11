@@ -1,0 +1,18 @@
+{
+  "name": "Flight Level Rechner",
+  "short_name": "Flight Level",
+  "description": "Offline Flight Level Rechner – FL, Fuß und Meter umrechnen",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0b0c0e",
+  "theme_color": "#0b0c0e",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

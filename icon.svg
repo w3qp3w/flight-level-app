@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="80" fill="#0b0c0e"/>
+  <path d="M180 200 L332 200 L360 180 L332 160 L180 160 Z" fill="#ececef"/>
+  <rect x="200" y="200" width="20" height="60" fill="#ececef"/>
+  <rect x="280" y="200" width="20" height="40" fill="#ececef"/>
+  <text x="256" y="420" font-family="ui-monospace, SF Mono, Menlo, monospace" font-size="160" font-weight="700" fill="#ececef" text-anchor="middle">FL</text>
+</svg>
